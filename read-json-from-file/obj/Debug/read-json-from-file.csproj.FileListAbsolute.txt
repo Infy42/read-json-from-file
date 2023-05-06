@@ -1,0 +1,38 @@
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\bin\Debug\read-json-from-file.exe.config
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\bin\Debug\read-json-from-file.exe
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\bin\Debug\read-json-from-file.pdb
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\bin\Debug\System.Memory.dll
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\bin\Debug\System.Text.Json.dll
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\bin\Debug\System.Buffers.dll
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\bin\Debug\System.ValueTuple.dll
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\obj\Debug\read-json-from-file.csproj.AssemblyReference.cache
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\obj\Debug\read-json-from-file.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\obj\Debug\read-json-from-file.exe.config
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\obj\Debug\read-json-from-file.csproj.CoreCompileInputs.cache
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\obj\Debug\read-json-from-file.csproj.CopyComplete
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\obj\Debug\read-json-from-file.exe
+C:\Users\Marko29\source\repos\read-json-from-file\read-json-from-file\obj\Debug\read-json-from-file.pdb
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\bin\Debug\read-json-from-file.exe.config
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\bin\Debug\read-json-from-file.exe
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\bin\Debug\read-json-from-file.pdb
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\bin\Debug\System.Memory.dll
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\bin\Debug\System.Text.Json.dll
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\bin\Debug\System.Buffers.dll
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\bin\Debug\System.ValueTuple.dll
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\obj\Debug\read-json-from-file.csproj.AssemblyReference.cache
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\obj\Debug\read-json-from-file.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\obj\Debug\read-json-from-file.exe.config
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\obj\Debug\read-json-from-file.csproj.CoreCompileInputs.cache
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\obj\Debug\read-json-from-file.csproj.CopyComplete
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\obj\Debug\read-json-from-file.exe
+C:\Users\Beeb the Cutie Pie\Downloads\read-json-from-file\read-json-from-file\obj\Debug\read-json-from-file.pdb
